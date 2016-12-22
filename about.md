@@ -12,4 +12,5 @@ I love sharing what I know and learn with others. And I especially love teaching
 
 #### About This Site
 
-This site was created with Jekyll using HTML5, SASS and Markdown. The site is published on Surge.
+This site was created with [Jekyll](https://jekyllrb.com/){:target="_blank"} using HTML5, SASS and Markdown. The site is 
+published on [Surge](https://surge.sh/){:target="_blank"}.

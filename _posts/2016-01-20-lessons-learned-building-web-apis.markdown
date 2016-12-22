@@ -110,7 +110,8 @@ _Lesson 6: Automated Testing_
 
 Because Web API’s do not have a UI, they are well suited for both test driven development and automated testing. And as your API evolves, the test automation will allow for faster delivery of enhancements with fewer bugs.
 
-I don’t get hung up on the type of test, be it a unit, functional or integrated test. I simply strive to have as much test coverage for as many scenarios as possible. I’ve found tools, such as [Google Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en), are very powerful both during development and acting as test runners replaying key tests.
+I don’t get hung up on the type of test, be it a unit, functional or integrated test. I simply strive to have as much test coverage for as many scenarios as possible. I’ve found tools, such as
+[Google Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en){:target="_blank"}, are very powerful both during development and acting as test runners replaying key tests.
 
 And if there is anything that will save your company , it’s your test automation!
 
@@ -120,9 +121,9 @@ Outside of my IDE, I only need a handful of tools to assist me in my Web API dev
 
 1.  Google Postman (see Lesson 6)
 2.  Chrome Devtools
-3.  [Fiddler](http://www.telerik.com/fiddler)
-4.  [JSON Editor Online](http://jsoneditoronline.org/)
-5.  [Wireshark](https://www.wireshark.org/)
+3.  [Fiddler](http://www.telerik.com/fiddler){:target="_blank"}
+4.  [JSON Editor Online](http://jsoneditoronline.org/){:target="_blank"}
+5.  [Wireshark](https://www.wireshark.org/){:target="_blank"}
 
 _Lesson 8: Performance_
 
@@ -153,5 +154,5 @@ I know it sounds obvious, but when you put your consumers first, you will find t
 ### Questions & Comments
 
 Have a question about this post or anything else?
-Ask away [on Twitter](https://twitter.com/stuartdga).
+Ask away [on Twitter](https://twitter.com/stuartdga){:target="_blank"}.
 
