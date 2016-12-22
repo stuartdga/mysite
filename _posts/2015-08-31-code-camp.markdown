@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Code Camp!"
+date:   2015-08-31 09:17:47 -0500
+categories: weddev education
+---
+I’ve been a member of our local technology council and serve on its board and chair its Outreach Committee. As chairman, I took a good look at our community and became really troubled by what I see as a “digital divide”. This divide has a greater power to segregate people along economic boundaries than ever before. Kids exposed to technology will have greater financial opportunities than those who are not. And the earlier they are exposed, the better off they will be!
+
+When I brought the idea of hosting summer coding camps to our board, I was happily surprised by their reception to the idea. And coincidentaly, some of our larger sponsors were concerned that their contributions were not having enough community impact. So we ambitiously set about to host two camps over the summer. Both would be fully funded at no cost to the students.
+
+The first camp had a very generous corporate sponsor. Not only did they fully fund the camp, but they hosted the camp in their corporate meeting rooms, provided instructors and technical support from their staff and provided meals and snacks. In addition, they leveraged their relationship with Microsoft to donate Surface tablets for the kids to use. All I had to do was to provide the kids! We canvased students from our public high schools and quickly filled it.
+
+The second camp was a different story. We had the very generous corporate sponsor. But our goal was to reach kids in a specific neigborhood, one that’s one the other side of that digital divide. And one with a high school that wasn’t receiving a lot of attention financially. So I went to our city’s Youth & Family Development department, seeking a location for the camp. They offered one of their family centers that was next door to the that high school. They would also be able to provide computers and laptops for the kids to use along with internet access. We had plenty of money for food and snacks. Now all that was left was to find instructors and students.
+
+I worked with teachers from the school to solicit their students. But by the end of the school year, we only had four students that had applied. As panic set in, luck would prevail at the last moment. A popular radio show on our local NPR station agreed to interview me about the camp. Within a week we had filled the camp with most of the students coming from our target area.
+
+Now the final step, teach these kids about coding and building websites. I had volunteer instructors from our developer community and had them scheduled throughout the week. What I hadn’t planned for was that it took at least two instructors at a time to support a class, not one. And the cirriculum was not motivating the students as we hoped. So necessity is the mother of invention. We “tailored” the course. Now instead of just creating a website, they had to pretend that they were an ad agency and designing a website for their favority star. These kids may not know anything about computers, but they all know musicians and athletes. Once they had a personal motivation, their creativity took control. As for me, at the end of the week I was completely exhausted, but with a deep personal statisfaction that is very hard to explain. And I have a new appreciation for teachers. It’s very hard work to keep kids motivated and on course.
+
+Next year's camps should be a breeze…
+
+### Questions & Comments
+
+Have a question about this post or anything else?
+Ask away [on Twitter](https://twitter.com/stuartdga).
+
